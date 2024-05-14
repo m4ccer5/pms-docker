@@ -21,4 +21,4 @@ services:
     volumes:
       - <path/to/plex/database>:/config
       - <path/to/transcode/temp>:/transcode
-      - <path/to/media>:/data
+      - //c/Users/mail/Downloads/complete:/data
